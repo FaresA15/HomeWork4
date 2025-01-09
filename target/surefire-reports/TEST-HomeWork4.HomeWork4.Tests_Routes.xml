@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="HomeWork4.HomeWork4.Tests_Routes" time="0.15" tests="8" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="HomeWork4.HomeWork4.Tests_Routes" time="0.096" tests="8" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IL"/>
     <property name="sun.boot.library.path" value="C:\Users\97250\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\97250\AppData\Local\Temp\surefire10850940220235471295\surefirebooter-20250108181710003_3.jar C:\Users\97250\AppData\Local\Temp\surefire10850940220235471295 2025-01-08T18-17-09_870-jvmRun1 surefire-20250108181710003_1tmp surefire_0-20250108181710003_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\97250\AppData\Local\Temp\surefire10031165187323182543\surefirebooter-20250109134101619_3.jar C:\Users\97250\AppData\Local\Temp\surefire10031165187323182543 2025-01-09T13-41-01_501-jvmRun1 surefire-20250109134101619_1tmp surefire_0-20250109134101619_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\97250\Desktop\java project\HomeWork4\target\test-classes;C:\Users\97250\Desktop\java project\HomeWork4\target\classes;C:\Users\97250\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\97250\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\97250\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\97250\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\97250\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0\junit-jupiter-params-5.11.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\97250\AppData\Local\Temp\surefire10850940220235471295\surefirebooter-20250108181710003_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\97250\AppData\Local\Temp\surefire10031165187323182543\surefirebooter-20250109134101619_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.6+10"/>
@@ -51,42 +51,42 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Users\97250\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/97250/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729/jre/bin/server;C:/Users/97250/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729/jre/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Git\cmd;C:\Users\97250\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Users\97250\AppData\Local\Programs\Microsoft VS Code\bin;C:\src\flutter\bin;;C:\Users\97250\Desktop;;."/>
+    <property name="java.library.path" value="C:\Users\97250\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/97250/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729/jre/bin/server;C:/Users/97250/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729/jre/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Git\cmd;C:\Users\97250\AppData\Local\Android\Sdk;C:\Users\97250\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Users\97250\AppData\Local\Programs\Microsoft VS Code\bin;C:\src\flutter\bin;C:\Users\97250\AppData\Local\GitHubDesktop\bin;C:\Users\97250\Desktop;;."/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Eclipse Adoptium"/>
     <property name="java.vm.version" value="17.0.6+10"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="Test_1" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.058">
+  <testcase name="Test_1" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.036">
     <system-out><![CDATA[Test 1 : equilateral
 ]]></system-out>
   </testcase>
-  <testcase name="Test_2" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.005">
+  <testcase name="Test_2" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.002">
     <system-out><![CDATA[Test 2 : Nottriangle
 ]]></system-out>
   </testcase>
-  <testcase name="Test_3" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.002">
+  <testcase name="Test_3" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.001">
     <system-out><![CDATA[Test 3 : Nottriangle
 ]]></system-out>
   </testcase>
-  <testcase name="Test_4" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.003">
+  <testcase name="Test_4" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.002">
     <system-out><![CDATA[Test 4 : Nottriangle
 ]]></system-out>
   </testcase>
-  <testcase name="Test_5" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.001">
+  <testcase name="Test_5" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.002">
     <system-out><![CDATA[Test 5 : isosceles
 ]]></system-out>
   </testcase>
-  <testcase name="Test_6" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.002">
+  <testcase name="Test_6" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.001">
     <system-out><![CDATA[Test 6 : isosceles
 ]]></system-out>
   </testcase>
-  <testcase name="Test_7" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.001">
+  <testcase name="Test_7" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.002">
     <system-out><![CDATA[Test 7 : isosceles
 ]]></system-out>
   </testcase>
-  <testcase name="Test_8" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.001">
+  <testcase name="Test_8" classname="HomeWork4.HomeWork4.Tests_Routes" time="0.002">
     <system-out><![CDATA[Test 8 : Scalene
 ]]></system-out>
   </testcase>
